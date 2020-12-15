@@ -9,10 +9,7 @@
 * (4) secrets--link:https://pypi.org/project/python-secrets/ (pip install python-secrets)
 * (5) sqlite3
 * (6) time
-## 3. :
-* (1) GoogleSearch--link: https://pypi.org/project/google-search-results/ (pip install google-search-results)
-* (2) BeautifulSoup--link: https://pypi.org/project/beautifulsoup4/ (pip install beautifulsoup4)
-* (3) requests--link:https://pypi.org/project/requests/ (pip install requests)
-* (4) secrets--link:https://pypi.org/project/python-secrets/ (pip install python-secrets)
-* (5) sqlite3
-* (6) time
+## 3. how to interact with the program：
+* (1) Download all the files in the '507-FINAL-PROJECT'
+* (2) Run the python file: combine-api-web.py
+* (3）The program will ask you to input 4 commands:![Screenshot](screenshot.png)
