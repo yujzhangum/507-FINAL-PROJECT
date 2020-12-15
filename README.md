@@ -12,4 +12,8 @@
 ## 3. how to interact with the program：
 * (1) Download all the files in the '507-FINAL-PROJECT'
 * (2) Run the python file: combine-api-web.py
-* (3）The program will ask you to input 4 commands:![Screenshot](screenshot.png)
+* (3）The program will ask you to input 4 commands. You are required to input the position that you want to apply for, and must input the correct value: yes / no in the last command, you can skip the second and third commands: "company" and "location" if you don't want to narrow the search. ![step1](step1.png)
+* (4) If you input the 'Yes' in the last command line ('Whether to filter h1b job position?'),the program will filter the results and only print the positions that could support sponsorship (H1B)
+* (5) If you input the 'No' in the last command line ('Whether to filter h1b job position?'), the program won't filter the results and will print all the position results that you are searching for. 
+* (6) Based on (5), after print all the position results, you still have the choose to view the H1B information, you could input the position id to view the details of this position's h1b status.
+* (7) The detailed will be showed in the video, you can back to the previous pages and exit the program at any time.
