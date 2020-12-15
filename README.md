@@ -12,4 +12,4 @@
 ## 3. how to interact with the program：
 * (1) Download all the files in the '507-FINAL-PROJECT'
 * (2) Run the python file: combine-api-web.py
-* (3）The program will ask you to input 4 commands:![Screenshot](screenshot.png)
+* (3）The program will ask you to input 4 commands.you must input the position that you want to apply for, and must input the correct value: yes / no in the last command
