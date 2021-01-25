@@ -1,4 +1,4 @@
-# 507-FINAL-PROJECT
+# JOB FILTER 
 ## 1. How to get API key
 * The API key in the python code is: a463df1e2c78e577d9220ceeba3d0f6cc418db1a445ed7520d0fc6b0c62ab95a
 * This API key will be invalid after 12/19/2020, if you want to use API key after that day, you could click the link to apply API key for free (15 days free trial): https://serpapi.com/
